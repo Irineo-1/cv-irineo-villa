@@ -100,6 +100,16 @@
       "url": "https://github.com/Irineo-1/practicas_profecionales"
     },
     {
+      "name": "Gestor de tienda",
+      "description": "Este es un sistema realizado para practicar mis Habilidades con React.js",
+      "tecnologis": [
+        "JavaScript",
+        "TypeScript",
+        "React.js"
+      ],
+      "url": "https://github.com/Irineo-1/Gestor-tienda-abarrotes"
+    },
+    {
       "name": "Procesador de video",
       "description": "Este servicio obtiene un blob y lo convierte a cualquier formato de video",
       "tecnologis": [
