@@ -105,7 +105,10 @@
       "tecnologis": [
         "JavaScript",
         "TypeScript",
-        "React.js"
+        "React.js",
+        "Redux",
+        "MUI",
+        "Tailwind"
       ],
       "url": "https://github.com/Irineo-1/Gestor-tienda-abarrotes"
     },
