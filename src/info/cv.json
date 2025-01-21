@@ -113,6 +113,15 @@
       "url": "https://github.com/Irineo-1/Gestor-tienda-abarrotes"
     },
     {
+      "name": "API Gestor de tienda",
+      "description": "Este es un servicio creado para complementar el proyecto de 'Gestor de tienda'",
+      "tecnologis": [
+        "Python",
+        "FastApi"
+      ],
+      "url": "https://github.com/Irineo-1/API-gestor-tienda-abarrotes"
+    },
+    {
       "name": "Procesador de video",
       "description": "Este servicio obtiene un blob y lo convierte a cualquier formato de video",
       "tecnologis": [
